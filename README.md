@@ -1,20 +1,26 @@
-# ð LeetCode Journey - Java Solutions
+# LeetCode Journey - Java Solutions
 
-Kho lÆ°u trá»¯ cÃ¡c giáº£i phÃ¡p tá»i Æ°u cho cÃ¡c bÃ i toÃ¡n thuáº­t toÃ¡n trÃªn LeetCode, ÄÆ°á»£c thá»±c hiá»n bá»i sinh viÃªn IT nÄm 3. 
+This repository contains optimized solutions for various algorithmic problems on LeetCode, developed by a third-year Information Technology student.
 
-## ð Thá»ng kÃª cÃ¡ nhÃ¢n
-- **NgÃ´n ngá»¯ chÃ­nh:** Java
-- **Tá»ng sá» bÃ i ÄÃ£ giáº£i:** 43+
-- **Má»¥c tiÃªu:** RÃ¨n luyá»n tÆ° duy logic, cáº¥u trÃºc dá»¯ liá»u vÃ  tá»i Æ°u hÃ³a Äá» phá»©c táº¡p thuáº­t toÃ¡n (O(n), O(log n)).
+## Personal Statistics
+- Primary Language: Java
+- Total Problems Solved: 43+
+- Core Objectives: Strengthening logical thinking, mastering data structures, and optimizing algorithmic complexity (Time: O(n), O(log n); Space: O(n)).
 
-## ð¡ TÆ° duy giáº£i quyáº¿t
-Má»i bÃ i giáº£i khÃ´ng chá» hÆ°á»ng tá»i káº¿t quáº£ "Accepted" mÃ  cÃ²n táº­p trung vÃ o:
-1. **Time Complexity:** Tá»i Æ°u thá»i gian cháº¡y.
-2. **Space Complexity:** Tá»i Æ°u bá» nhá» sá»­ dá»¥ng.
-3. **Clean Code:** Viáº¿t code dá» Äá»c, dá» hiá»u.
+## Repository Structure
+- /Easy: Fundamental problems involving Arrays, Strings, and HashMaps.
+- /Medium: Intermediate challenges focusing on Stacks, Queues, Trees, and Search Algorithms.
+- /Top-Interview-Questions: Curated problems frequently encountered in technical interviews at major tech companies.
+
+## Problem-Solving Approach
+Each solution is developed with a focus beyond just achieving an "Accepted" status:
+1. Time Complexity: Minimizing execution time.
+2. Space Complexity: Optimizing memory usage.
+3. Code Quality: Writing clean, readable, and maintainable code.
 
 ---
-*âCoding is a marathon, not a sprint.â*
+"Coding is a marathon, not a sprint."
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
