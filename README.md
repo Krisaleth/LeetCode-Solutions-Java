@@ -88,6 +88,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1580-shuffle-the-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1580-shuffle-the-array) |
+| [2058-concatenation-of-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2058-concatenation-of-array) |
 ## Union Find
 |  |
 | ------- |
