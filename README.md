@@ -35,6 +35,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0424-longest-repeating-character-replacement](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 ## Sorting
 |  |
 | ------- |
