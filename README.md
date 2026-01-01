@@ -60,6 +60,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0054-spiral-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0031-next-permutation](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -129,4 +131,8 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
