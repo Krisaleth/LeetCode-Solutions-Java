@@ -29,6 +29,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
