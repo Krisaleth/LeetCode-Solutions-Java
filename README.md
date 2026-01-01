@@ -49,4 +49,8 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
