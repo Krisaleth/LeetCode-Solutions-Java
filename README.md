@@ -38,6 +38,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
