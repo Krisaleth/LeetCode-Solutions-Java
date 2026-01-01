@@ -45,6 +45,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0015-3sum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0031-next-permutation) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
