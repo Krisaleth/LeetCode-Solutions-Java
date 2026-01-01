@@ -87,6 +87,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0485-max-consecutive-ones](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
+| [1580-shuffle-the-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1580-shuffle-the-array) |
 ## Sorting
 |  |
 | ------- |
