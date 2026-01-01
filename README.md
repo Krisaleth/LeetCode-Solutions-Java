@@ -122,6 +122,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0009-palindrome-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Trie
 |  |
 | ------- |
@@ -208,4 +209,5 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
