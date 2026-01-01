@@ -1,4 +1,20 @@
-Hello
+# 🏆 LeetCode Journey - Java Solutions
+
+Kho lưu trữ các giải pháp tối ưu cho các bài toán thuật toán trên LeetCode, được thực hiện bởi sinh viên IT năm 3. 
+
+## 📊 Thống kê cá nhân
+- **Ngôn ngữ chính:** Java
+- **Tổng số bài đã giải:** 43+
+- **Mục tiêu:** Rèn luyện tư duy logic, cấu trúc dữ liệu và tối ưu hóa độ phức tạp thuật toán (O(n), O(log n)).
+
+## 💡 Tư duy giải quyết
+Mỗi bài giải không chỉ hướng tới kết quả "Accepted" mà còn tập trung vào:
+1. **Time Complexity:** Tối ưu thời gian chạy.
+2. **Space Complexity:** Tối ưu bộ nhớ sử dụng.
+3. **Clean Code:** Viết code dễ đọc, dễ hiểu.
+
+---
+*“Coding is a marathon, not a sprint.”*
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
