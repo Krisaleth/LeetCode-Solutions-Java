@@ -47,6 +47,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
 ## Sorting
 |  |
 | ------- |
@@ -144,4 +146,16 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
