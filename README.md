@@ -53,6 +53,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0647-palindromic-substrings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -117,6 +118,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -156,6 +158,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
