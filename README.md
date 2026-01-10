@@ -41,6 +41,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0020-valid-parentheses) |
@@ -107,6 +108,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -155,6 +157,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
