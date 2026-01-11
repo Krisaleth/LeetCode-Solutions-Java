@@ -47,6 +47,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0020-valid-parentheses](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,6 +176,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2058-concatenation-of-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3616-make-array-elements-equal-to-zero) |
