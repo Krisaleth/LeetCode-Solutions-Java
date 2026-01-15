@@ -83,6 +83,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0068-text-justification) |
+| [0088-merge-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,6 +106,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0015-3sum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
@@ -120,6 +122,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
