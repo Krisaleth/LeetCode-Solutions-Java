@@ -1,7 +1,5 @@
 class Solution {
     public int findMin(int[] nums) {
-        int mim = Integer.MAX_VALUE;
-
         int left = 0;
         int right = nums.length - 1;
 
