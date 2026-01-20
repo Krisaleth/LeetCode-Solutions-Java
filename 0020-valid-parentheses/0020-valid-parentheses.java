@@ -1,5 +1,8 @@
 class Solution {
     public boolean isValid(String s) {
+        if (s.isEmpty()) {
+            return true;
+        }
         Stack<Character> check = new Stack<>();
         int i = 0;
         if (!s.contains(")") && !s.contains("}") && !s.contains("]")) {
@@ -26,11 +29,6 @@ class Solution {
             }
             i++;
         }
-        if (check.empty()) {
-            return true;
-        }
-        else {
-            return false;
-        }
+        return check.empty();
     }
 }
