@@ -4,11 +4,7 @@ class Solution {
             return true;
         }
         Stack<Character> check = new Stack<>();
-        int i = 0;
-        if (!s.contains(")") && !s.contains("}") && !s.contains("]")) {
-            return false;
-        }
-        while(i < s.length()) {
+        for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '(' || s.charAt(i) == '[' || s.charAt(i) == '{') {
                 check.push(s.charAt(i));
             }
@@ -27,7 +23,6 @@ class Solution {
                     }
                 }
             }
-            i++;
         }
         return check.empty();
     }
