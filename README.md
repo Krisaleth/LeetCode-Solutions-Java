@@ -35,6 +35,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0219-contains-duplicate-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
@@ -53,6 +54,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0076-minimum-window-substring](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -253,6 +255,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0169-majority-element](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
