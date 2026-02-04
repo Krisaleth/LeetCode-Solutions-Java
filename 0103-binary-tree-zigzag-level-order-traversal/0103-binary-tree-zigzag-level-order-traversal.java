@@ -21,7 +21,7 @@ class Solution {
             return res;
         }
 
-        Queue<TreeNode> queue = new LinkedList<>();
+        Deque<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
 
         while(!queue.isEmpty()) {
@@ -31,10 +31,10 @@ class Solution {
             for (int i = 0; i < length; i++) {
                 TreeNode curr = queue.poll();
                 if (leftToRight) {
-                    value.add(curr.val);
+                    value.addLast(curr.val);
                 }
                 else {
-                    value.add(0, curr.val);
+                    value.addFirst(curr.val);
                 }
                 if (curr.left != null) {
                     queue.offer(curr.left);
