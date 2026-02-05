@@ -103,6 +103,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0228-summary-ranges](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
@@ -144,6 +145,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0141-linked-list-cycle](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0647-palindromic-substrings) |
@@ -234,6 +236,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
@@ -276,6 +279,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
