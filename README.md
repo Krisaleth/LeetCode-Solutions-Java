@@ -108,6 +108,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0485-max-consecutive-ones](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -175,6 +176,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 ## Matrix
 |  |
 | ------- |
