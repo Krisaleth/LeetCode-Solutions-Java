@@ -296,6 +296,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0783-search-in-a-binary-search-tree) |
@@ -308,6 +309,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0733-flood-fill) |
@@ -320,6 +322,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -333,6 +336,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0783-search-in-a-binary-search-tree) |
