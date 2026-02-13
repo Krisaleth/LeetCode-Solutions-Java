@@ -116,6 +116,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [2058-concatenation-of-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2058-concatenation-of-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/2350-find-closest-number-to-zero) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3763-separate-squares-i](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3763-separate-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +242,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0278-first-bad-version](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
+| [3763-separate-squares-i](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/3763-separate-squares-i) |
 ## Prefix Sum
 |  |
 | ------- |
