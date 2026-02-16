@@ -176,6 +176,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0020-valid-parentheses](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 ## Linked List
@@ -354,6 +355,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0232-implement-queue-using-stacks) |
 ## Interactive
 |  |
