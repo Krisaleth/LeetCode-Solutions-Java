@@ -111,6 +111,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0733-flood-fill](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0792-binary-search) |
+| [0883-car-fleet](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0883-car-fleet) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0990-verifying-an-alien-dictionary) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/1580-shuffle-the-array) |
@@ -130,6 +131,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0242-valid-anagram](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0645-set-mismatch) |
+| [0883-car-fleet](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | [0155-min-stack](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0883-car-fleet) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +219,7 @@ Each solution is developed with a focus beyond just achieving an "Accepted" stat
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Krisaleth/LeetCode-Solutions-Java/tree/master/0883-car-fleet) |
 ## Matrix
 |  |
 | ------- |
